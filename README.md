@@ -23,6 +23,4 @@ This project is a Python-based Student Course Recommendation System developed us
 - Suggests programming languages to learn
 - Displays academic information such as CGPA and number of carryovers
 
-Department of Computer Science
-
 Akanu Ibiam Federal Polytechnic, Unwana
